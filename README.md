@@ -17,7 +17,7 @@ REST API для социальной сети Yatube. Сервис позвол�
 
 ## Быстрый старт
 ```bash
-git clone https://github.com/ONS-1111/api_final_yatube
+git clone https://github.com/AdmiralAza201/api_final_yatube
 cd api_final_yatube-master
 
 # Виртуальное окружение
@@ -83,5 +83,5 @@ Content-Type: application/json
 - Django 3.2, Django REST Framework, SimpleJWT
 
 ## Контакты
-- Оспищев Никита Сергеевич
-- Email: Kanalohca@gmail.com
+- Кичиков Алексей Михайлович
+- Email: Kkichikovaleksey@gmail.com
